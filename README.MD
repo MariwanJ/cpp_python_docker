@@ -1,5 +1,5 @@
 # FLTK - C++ Docker Sample Project with Python Support 
-Simple docker file that can be used for developing FLTK (CPP) porject, or Python project. Notice that the project is fltk sample project, no python project available with the code. 
-I tested the docker on Windows 10
+
+Simple Docker file that can be used for developing FLTK (C++) projects or Python projects. Note that the provided code includes an FLTK sample project, but no Python project is available. I have tested the Docker setup on Windows 10.
 
 Mariwan Jalal
